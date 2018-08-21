@@ -1,3 +1,6 @@
+
+
+<h1>Server Variables:</h1>
 <?php 
 
 $indicesServer = array('PHP_SELF', 
