@@ -1,5 +1,5 @@
 
-<h1>Server Variables:</h1>
+<h1>Variáveis do servidor:</h1>
 
 <?php 
 $indicesServer = array('PHP_SELF', 
