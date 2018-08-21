@@ -1,8 +1,7 @@
 
-
 <h1>Server Variables:</h1>
-<?php 
 
+<?php 
 $indicesServer = array('PHP_SELF', 
 	'argv', 
 	'argc', 
